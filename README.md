@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <img src="demo.gif" alt="git-trophy demo" width="80%"/>
+</p>
+
+<p align="center">
   <a href="#-features">Features</a> •
   <a href="#-installation">Install</a> •
   <a href="#-usage">Usage</a> •
